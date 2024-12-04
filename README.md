@@ -1,7 +1,7 @@
 # Transjakarta---Public-Transportation-Transaction-Analysis
 
 ## Latar Belakang
-TransJakarta merupakan sistem transportasi Bus Rapid Transit (BRT) pertama di Asia Tenggara dan Asia Selatan, serta memiliki rute terpanjang di dunia (208 km). Sistem BRT ini didasarkan pada sistem TransMilenio di Bogotá, Kolombia, dan resmi beroperasi sejak 1 Februari 2004. TransJakarta menawarkan berbagai pilihan layanan transportasi, termasuk BRT, Mikrotrans, dan Royaltrans.
+Transjakarta merupakan sistem transportasi Bus Rapid Transit (BRT) pertama di Asia Tenggara dan Asia Selatan, serta memiliki rute terpanjang di dunia (208 km). Sistem BRT ini didasarkan pada sistem TransMilenio di Bogotá, Kolombia, dan resmi beroperasi sejak 1 Februari 2004. Transjakarta menawarkan berbagai pilihan layanan transportasi, termasuk BRT, Mikrotrans, dan Royaltrans.
 
 ## Pernyataan Masalah
 Transjakarta ingin mendapatkan wawasan mengenai perilaku penumpang pada bulan April 2023 berdasarkan data pada kartu pembayaran, waktu layanan, dan rute yang paling ramai berdasarkan jenis layanan. Pertanyaan yang harus dijawab adalah:
